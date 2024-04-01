@@ -121,7 +121,7 @@ export default function Home() {
       {/* banner */}
       <section className="lg:w-[calc(100%+48px)] md:w-[calc(100%+32px)] lg:-mx-6 md:-mx-4 md:mb-[84px] mb-[34px]">
         <Image
-          src={"/assets/island_theme.png"}
+          src={"https://firebasestorage.googleapis.com/v0/b/degen-island.appspot.com/o/island_theme-min.webp?alt=media&token=55eef89d-44d1-4afc-b1b6-6362c6915a2b"}
           priority
           alt="island_theme"
           width={0}
